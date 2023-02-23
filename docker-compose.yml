@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    image: holdennguyen6174/topic1:latest
+    ports:
+      - "80:80"
